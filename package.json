@@ -1,0 +1,39 @@
+{
+  "name": "is-true",
+  "description": "Returns `true` if the value of an object's property is strictly true, or it's inverse is false.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/is-true",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonschlinkert/is-true.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-true/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-plain-object": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "boolean",
+    "check",
+    "is",
+    "object",
+    "property",
+    "value"
+  ]
+}

@@ -7,7 +7,7 @@
 
 'use strict';
 
-var isObject = require('is-plain-object');
+var isObject = require('isobject');
 
 module.exports = function is(o, key) {
   if (!isObject(o)) {

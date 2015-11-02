@@ -1,7 +1,7 @@
 {
   "name": "is-true",
   "description": "Returns `true` if the value of an object's property is strictly true, or it's inverse is false.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/is-true",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/is-true",
